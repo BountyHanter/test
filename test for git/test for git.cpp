@@ -1,13 +1,8 @@
 ﻿// test for git.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //ffff
+#include <iostream>
 
-dsds^:x
-dsds^:x
-dsds^:x
-dsds^:x
-dsds^:x
-dsds^:x
-t main()ffff
+int main()
 {
     std::cout << "Hello World!\n";
 }
